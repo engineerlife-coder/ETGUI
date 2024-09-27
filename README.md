@@ -8,6 +8,8 @@ ETGUI is a text-based graphical interface built in Python that allows for moveme
 
 ## Note this is a very simple not too good basic gridlike gui/renderer with basic movements, this was made for fun, and will likly not be updated, you can make updates/changes, just give me credit
 
+## Note this is a currently still very buggy and in its beta stage fill free to debug and tell me the fixes
+
 ## Installation
 
 ## Ownership
