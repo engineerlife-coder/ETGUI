@@ -1,4 +1,4 @@
-# ETGUI - Ethan's Text-based Graphical User Interface
+# ETGUI - Ethan's Text-based Graphical User Interface (BROKEN)
 
 ETGUI is a text-based graphical interface built in Python that allows for movement and interaction on a grid.
 
